@@ -1,0 +1,4 @@
+interface:
+  display_name: "B站评论弹幕维护"
+  short_description: "根据正文与画面生成自然的B站评论和弹幕，校对触发点、时间、重复与密度"
+  default_prompt: "使用 $maintain-bilibili-comments-danmaku 根据我的视频材料生成或优化自然弹幕，贴合当下内容并检查时间轴。"
